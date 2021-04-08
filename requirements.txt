@@ -1,6 +1,7 @@
 numpy
 pandas
 dash
+dash_daq
 plotly
 gunicorn
 dash-bootstrap-components
