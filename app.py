@@ -18,7 +18,7 @@ from app_functions import create_error_graph, create_load_shape_graph, create_ho
 # https://stackoverflow.com/questions/46519518/how-to-range-slider-and-selector-with-plotly-dash
 
 # get data for visual
-app_data = pd.read_csv('https://raw.githubusercontent.com/johnmrudolph/dash_covid_load_tracker/master/database_upload_2021_04_07.csv')
+app_data = pd.read_csv('https://raw.githubusercontent.com/johnmrudolph/dash_covid_load_tracker/main/database_upload_2021_04_07.csv')
 
 # key dates
 key_dates = {
